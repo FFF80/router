@@ -19,6 +19,7 @@ class Session
      * @var User
      */
     public static User $user;
+
     /**
      * @var array
      */
